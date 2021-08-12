@@ -4,7 +4,7 @@
 I am a backend software engineer.
 
 
-As a  software engineer,  I enjoy using my creativity, problem solving and managerial skills to build products that help people.
+As a  software engineer,  I enjoy using my creativity, problem solving and managerial skills to build *products* that help people.
 
 
   
