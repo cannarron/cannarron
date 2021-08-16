@@ -1,7 +1,7 @@
 ### Hi I'm Vanessa
 
 
-I am a backend software engineer.
+I'm a backend software engineer.
 
 
 As a  software engineer,  I channel my creativity, problem solving and managerial skills to build *products* that people love.
