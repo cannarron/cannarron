@@ -1,16 +1,10 @@
 ### Hi I'm Vanessa
 
 
-I'm a backend software engineer.
+I love to channel my creativity, problem solving and managerial skills into building usable *products*
 
 
-As a  software engineer,  I channel my creativity, problem solving and managerial skills to build *products* that people love.
 
-
-  
-
-- 👨🏻‍💻 I’m currently working on something cool
-- 🚀 I'm currently learning about containers and ML
 
 📫 How to reach me: cannarron@gmail.com 
 </br>
