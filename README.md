@@ -1,13 +1,4 @@
-### Hi I'm Vanessa
 
-
-I love to channel my creativity, problem solving and managerial skills into building usable *products*
-
-
-
-
-📫 How to reach me: cannarron@gmail.com 
-</br>
 
 ## 🧰 Languages and Tools:
 <p align="center">
