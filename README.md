@@ -1,6 +1,25 @@
+## Hi there,
+Welcome to my Github Repository. I've been immersed in the tech space since 2016, collaborating with diverse tech teams and startups. My expertise spans backend development with adeptness in web technologies.
 
+### Technologies I work with:
+Here's a list of technologies I have hands-on experience with:
+1. Javascript
+2. PHP
+3. Cloud deployment services (AWS)
+4. Frameworks (Laravel, NodeJS)
 
-## 🧰 Languages and Tools:
+## Fun Fact:
+I once developed a comprehensive API for managing car parking spaces, combining my passion for software development with real-world solutions to everyday challenges. I came up with this idea while waiting at a bustop on a sunny morning.
+
+ ## Let's work together:
+I'm open to new opportunities so contact me if your team is hiring! :D
+
+* Email: cannarron@gmail.com
+* Linkedin: [vanessa-i-osuka](https://linkedin.com/in/vanessa-i-osuka)
+
+I look forward to the possibility of working with you. 
+
+## 🧰 Languages and Tool:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
