@@ -4,7 +4,7 @@ Welcome to my Github Repository. I've been immersed in the tech space since 2016
 ### Technologies I work with:
 Here's a list of technologies I have hands-on experience with:
 1. Javascript
-2. PHP
+2. Python
 3. Cloud deployment services (AWS)
 4. Frameworks (Laravel, NodeJS)
 
