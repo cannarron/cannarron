@@ -9,7 +9,7 @@ Here's a list of technologies I have hands-on experience with:
 4. Frameworks (Laravel, NodeJS)
 
 ## Fun Fact:
-I once developed a comprehensive API for managing car parking spaces, combining my passion for software development with real-world solutions to everyday challenges. I came up with this idea while waiting at a bustop on a sunny morning.
+I developed a comprehensive API for managing car parking spaces, combining my passion for software development with real-world solutions to everyday challenges. I came up with this idea while waiting at a bustop on a sunny morning.
 
  ## Let's work together:
 I'm open to new opportunities so contact me if your team is hiring! :D
