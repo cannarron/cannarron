@@ -4,17 +4,14 @@ Welcome to my Github Repository. I've been immersed in the tech space since 2016
 ### Technologies I work with:
 Here's a list of technologies I have hands-on experience with:
 1. Javascript
-2. Python
-3. Cloud deployment services (AWS)
-4. Frameworks (Laravel, NodeJS)
+2. Cloud deployment services (AWS)
+3. Frameworks (Laravel, NodeJS)
 
 ## Fun Fact:
 I developed a comprehensive API for managing car parking spaces, combining my passion for software development with real-world solutions to everyday challenges. I came up with this idea while waiting at a bustop on a sunny morning.
 
  ## Let's work together:
-I'm open to new opportunities so contact me if your team is hiring! :D
-
-* Email: cannarron@gmail.com
+I'm open to new opportunities so contact me if your team is hiring! 
 * Linkedin: [vanessa-i-osuka](https://linkedin.com/in/vanessa-i-osuka)
 
 I look forward to the possibility of working with you. 
