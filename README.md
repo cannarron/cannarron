@@ -1,5 +1,5 @@
 ## Hi there,
-Welcome to my Github Repository. I've been immersed in the tech space since 2016, collaborating with diverse tech teams and startups. My expertise spans backend development with adeptness in web technologies.
+Welcome to my Github Repository. I am a backend developer and senior technical writer.
 
 ### Technologies I work with:
 Here's a list of technologies I have hands-on experience with:
