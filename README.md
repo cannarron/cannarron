@@ -11,7 +11,7 @@ Here's a list of technologies I have hands-on experience with:
 I developed a comprehensive API for managing car parking spaces, combining my passion for software development with real-world solutions to everyday challenges. I came up with this idea while waiting at a bustop on a sunny morning.
 
  ## Let's work together:
-I'm open to new opportunities so contact me if your team is hiring! 
+I'm open to new opportunities so please contact me if your team is hiring! 
 * Linkedin: [vanessa-i-osuka](https://linkedin.com/in/vanessa-i-osuka)
 
 I look forward to the possibility of working with you. 
